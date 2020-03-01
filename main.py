@@ -2,7 +2,7 @@
 
 def main(msg):
     //Adding a different comment
-    print(msg)
-
+    // Print a messsage
+	print(msg)
 
 main("Hello People")
